@@ -50,7 +50,7 @@ https://remix.ethereum.org/
 
 - View the deployed contract and examine transactions.
 
-## 3. Deploy - Testnet or Mainnet
+## 4. Deploy - Testnet or Mainnet
 
 Follow along with this tutorial:
 
